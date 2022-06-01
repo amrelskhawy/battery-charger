@@ -2,7 +2,6 @@
 
 ### Using Html,Css and JavaScript
 
-### You can Preview it here : [Battery-charger Demo](https://amrelskhawy.github.io/battery-charger/)
 **Inspired From that video** : [Battery Level Indicator](https://www.youtube.com/watch?v=0gV3kmnLir0&t=1152s)
 
 <center>**Screenshots From the project**</center>
